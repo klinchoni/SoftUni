@@ -1,0 +1,16 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\bin\Debug\net5.0\Streams2.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\bin\Debug\net5.0\Streams2.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\bin\Debug\net5.0\Streams2.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\bin\Debug\net5.0\Streams2.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\bin\Debug\net5.0\Streams2.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\bin\Debug\net5.0\Streams2.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\refint\Streams2.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\Streams2.genruntimeconfig.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Streams2\obj\Debug\net5.0\ref\Streams2.dll

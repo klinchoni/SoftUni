@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Fundamentals with C# - Sept 2022\3.2.Exercise HW\Associative Arrays - Exercise\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Exercise HW\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.genruntimeconfig.cache

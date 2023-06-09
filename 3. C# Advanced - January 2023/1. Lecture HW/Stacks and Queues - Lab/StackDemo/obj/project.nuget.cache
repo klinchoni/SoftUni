@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUQhzUd5WS0TLzK4vAr1OiI8ShIuWq+FZjzpM4hdo54ZtQuJ4xJgFLcb1UgQaT193W3EkA8jBA45s/GMuSuFVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Stacks and Queues - Lab\\StackDemo\\StackDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ch5rsOL/3EuvFMxNeY3wcjEL+sI9yIM4XyWTN/rG8f9ZXKeOF2zWawI4F////Vedbg6BptJmjfvOzUzD7VoGRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Streams, Files and Directories\\SplitFile\\SplitFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

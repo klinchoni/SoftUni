@@ -1,0 +1,16 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\bin\Debug\net5.0\StackDemo.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\bin\Debug\net5.0\StackDemo.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\bin\Debug\net5.0\StackDemo.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\bin\Debug\net5.0\StackDemo.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\refint\StackDemo.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\StackDemo.genruntimeconfig.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Stacks and Queues - Lab\StackDemo\obj\Debug\net5.0\ref\StackDemo.dll

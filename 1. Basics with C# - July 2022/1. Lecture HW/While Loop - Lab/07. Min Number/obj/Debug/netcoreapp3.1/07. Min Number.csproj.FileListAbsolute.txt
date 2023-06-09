@@ -1,0 +1,13 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.genruntimeconfig.cache

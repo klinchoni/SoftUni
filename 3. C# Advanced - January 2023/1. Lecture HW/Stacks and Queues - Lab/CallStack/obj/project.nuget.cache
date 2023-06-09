@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "36yr3YL69n5bZVU41VYUYuQWWJXpuDYgFy0fyUUDGdC/+bBcla+7SBfzRC9z1DuTAwe0Vvj1De0eJwsW7ZqpjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Stacks and Queues - Lab\\CallStack\\CallStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

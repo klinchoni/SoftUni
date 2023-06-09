@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "noVY0JMZuse2hP7yky0eibUfCyn4YxlOa5retXZ+qhxmVw6lePKnqVu3omXzHaeIXZaCR09QWuUUZt5A+8gl6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Multidimensional Arrays - Lab\\PrintingMatrix\\PrintingMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

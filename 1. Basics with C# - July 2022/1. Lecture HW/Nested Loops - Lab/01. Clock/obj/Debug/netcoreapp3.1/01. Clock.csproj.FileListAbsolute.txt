@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktXdqtJ+r1SzGzFBhYV2PKl7k2KE2o7Q53awtHGgT40GByG1ko8NlQ8rg3ykoS7PzOKwDMexpp1ZykAEta8nfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

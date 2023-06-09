@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    border-bottom: 2px solid rgb(0,0,0);
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+header nav {
+    margin-left: auto;
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav li {
+    display: block;
+}
+
+header nav a {
+    color: rgb(0,153,0);
+    text-decoration: none;
+    padding: 0.5em 0.5em;
+}

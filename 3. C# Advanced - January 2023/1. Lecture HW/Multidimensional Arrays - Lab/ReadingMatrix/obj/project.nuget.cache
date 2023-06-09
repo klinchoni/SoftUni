@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ii8HeZlqvCLonXgo07wG8FgSlS0zv4Hc2Hbps1nKZF/K8FeVVy+NMvsEjLKlHpJUNy6lyWDHtTzlcetKNx0VlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Multidimensional Arrays - Lab\\ReadingMatrix\\ReadingMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

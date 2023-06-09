@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.genruntimeconfig.cache

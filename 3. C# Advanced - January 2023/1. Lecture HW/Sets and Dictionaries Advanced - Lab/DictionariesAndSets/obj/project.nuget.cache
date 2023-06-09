@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5/RvZEr9bxWSBh8+NnAdlvRoVqyMAjZMLcD/IhVMYXH9pteKeMlPjy8tzVLu41GGrb2lR5H0Bt4UeSAVC7zGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Sets and Dictionaries Advanced - Lab\\DictionariesAndSets\\DictionariesAndSets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

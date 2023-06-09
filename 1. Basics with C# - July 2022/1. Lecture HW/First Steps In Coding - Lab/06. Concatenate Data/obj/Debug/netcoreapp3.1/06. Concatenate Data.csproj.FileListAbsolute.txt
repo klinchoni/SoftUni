@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.genruntimeconfig.cache

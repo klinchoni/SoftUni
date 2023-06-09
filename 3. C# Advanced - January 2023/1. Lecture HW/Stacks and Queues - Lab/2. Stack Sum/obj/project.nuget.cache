@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKvhKRK5lnhXEo/m/69OMqhefC7Bnf8VbzkOA8kNkoS3PVuSx6SxpGhPYtnpX3f5Vw40JNNVv91bKqE1e8CRUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

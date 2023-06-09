@@ -1,0 +1,16 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\bin\Debug\net5.0\Directories.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\bin\Debug\net5.0\Directories.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\bin\Debug\net5.0\Directories.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\bin\Debug\net5.0\Directories.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\bin\Debug\net5.0\Directories.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\bin\Debug\net5.0\Directories.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\refint\Directories.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\Directories.genruntimeconfig.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# Advanced - January 2023\Lecture HW\Streams, Files and Directories\Directories\obj\Debug\net5.0\ref\Directories.dll

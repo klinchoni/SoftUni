@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVNLfWoGl06kd7k1BJnabEJGfQ9nLhsCUBt2yMNToXLqvGly1r+Zq7hFC75ms8o/sWxz/IFQhxWtKKqTtFyiOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Streams, Files and Directories\\Streams2\\Streams2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

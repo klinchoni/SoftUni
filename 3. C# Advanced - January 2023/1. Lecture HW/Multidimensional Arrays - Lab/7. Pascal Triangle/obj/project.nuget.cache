@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "77SB1fNXF+eT2HXveQXC/dTGC03Ql1Ir6vGMFGlA+UbqSoR2xeyj2U2/Yb4YOX8SrbWYbqkVKqiiURHNpI2bBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Multidimensional Arrays - Lab\\7. Pascal Triangle\\7. Pascal Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

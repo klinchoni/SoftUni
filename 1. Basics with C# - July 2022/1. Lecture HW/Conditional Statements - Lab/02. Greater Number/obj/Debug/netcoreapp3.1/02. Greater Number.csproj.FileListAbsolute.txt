@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.genruntimeconfig.cache

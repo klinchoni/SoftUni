@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhoXcyzFTyeXsMLBgekZBlYGn8FiIty+RNXJeZFqBxCtj0Y0EgopqR8izHk+tNPSTEJpXA4Sw1CxPZJ3teaNDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Multidimensional Arrays - Lab\\ConsoleAsMatrix\\ConsoleAsMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

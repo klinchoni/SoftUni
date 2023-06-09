@@ -1,0 +1,64 @@
+@import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+
+.viewport {
+    position: relative;
+    height: 100vh;
+  }
+  .card {
+    display: block;
+    position: relative;
+  }
+
+.viewport:nth-child(1) {
+    background: linear-gradient(
+      90deg,
+      rgba(31, 111, 157, 1) 0%,
+      rgba(44, 145, 159, 1) 35%,
+      rgba(64, 197, 161, 1) 100%
+    );
+  }
+
+  .viewport:nth-child(1) img{
+    height: 200px;
+    width: 350px;
+    object-fit: cover;
+  }
+
+  .viewport:nth-child(2) img{
+    height: 500px;
+    width: 350px;
+    object-fit: cover;
+  }
+
+  .viewport:nth-child(2){
+    background: linear-gradient(
+        90deg,
+        rgba(161, 42, 143, 1) 0%,
+        rgba(175, 71, 37, 1) 35%,
+        rgba(233, 144, 2, 1) 100%
+    );
+  }
+
+  .card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .viewport .card .icon1, .icon2{
+    color: white;
+    position: absolute;
+  }
+
+  .icon1{
+    top: 170px;
+    left: 320px;
+    font-size: 22px;
+  }
+
+  .icon2{
+    top:470px;
+    left: 320px;
+    font-size: 22px;
+  }

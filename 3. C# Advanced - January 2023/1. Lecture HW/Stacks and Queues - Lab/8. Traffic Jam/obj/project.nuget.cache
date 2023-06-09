@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BuBoCDffghiQjx8uDdjvVfMdVI8IoRLUFARjo5CMqgGSDxwyQQ8vFxq7GwbvmUsja3//2DGLAXHCc+fi7xt86Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\C# Advanced - January 2023\\Lecture HW\\Stacks and Queues - Lab\\8. Traffic Jam\\8. Traffic Jam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

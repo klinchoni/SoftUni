@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZh5C90F4okVhiOgbBF8pH/P5V1Zb41h0EgEOXAknmDdJOuj1hUWiTO/CoBBt4+Xww3mAfWuMbnzLfkvRpGGjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klinc\\Desktop\\УНИ\\SoftUni\\Fundamentals with C# - Sept 2022\\4.2.Final Exam Prep\\ExamPrepEx\\02. Emoji Detector\\02. Emoji Detector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klinc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

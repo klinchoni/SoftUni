@@ -1,0 +1,14 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\Lecture HW\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\bin\Debug\net6.0\01.Person.exe
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\bin\Debug\net6.0\01.Person.deps.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\bin\Debug\net6.0\01.Person.runtimeconfig.json
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\bin\Debug\net6.0\01.Person.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\bin\Debug\net6.0\01.Person.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.csproj.AssemblyReference.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.AssemblyInfoInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.AssemblyInfo.cs
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\refint\01.Person.dll
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.pdb
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\01.Person.genruntimeconfig.cache
+C:\Users\klinc\Desktop\УНИ\SoftUni\C# OOP - February 2023\Exercise HW\Inheritance - Exercise\01. Person\obj\Debug\net6.0\ref\01.Person.dll
