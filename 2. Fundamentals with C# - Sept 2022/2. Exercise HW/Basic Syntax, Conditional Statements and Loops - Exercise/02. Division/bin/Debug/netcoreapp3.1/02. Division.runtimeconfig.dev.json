@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\klinc\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\klinc\\.nuget\\packages"
-    ]
-  }
-}
