@@ -1,2 +1,2 @@
 # SoftUni
- Solved problems from the homework and exam preparation
+ Here are my homeworks and exam preparations from all the courses I attended in SoftUni for now.
