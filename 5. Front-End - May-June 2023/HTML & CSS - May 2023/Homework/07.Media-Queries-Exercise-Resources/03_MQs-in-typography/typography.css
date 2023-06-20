@@ -1,0 +1,107 @@
+html{
+    margin: 30px;
+}
+
+@media(width < 500px) { 
+    body{ 
+        font-size: 12px;
+    }
+}
+
+@media(width > 500px) { 
+    body{ 
+        font-size: 14px;
+    }
+
+    .secondparagraph{
+        width:100%;
+    }
+    
+    blockquote{
+        width: 100%;
+    }
+}
+
+@media(width > 600px) {
+    body{ 
+        font-size: 16px;
+    }
+}
+
+@media(width > 800px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+@media(width > 1300px) { 
+    body{ 
+        font-size: 21px;
+    }
+}
+
+@media(width > 1800px) {
+    body{ 
+        font-size: 23px;
+    }
+}
+
+body {
+    background-color: rgb(238,238,238);
+}
+
+main {
+    width: 65%;
+}
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10%;
+    margin: 0.3em 0.5em;
+}
+
+header {
+    width: 100%;
+    border-bottom: 2px solid rgb(0,0,0);
+    text-transform: uppercase;
+}
+
+h1,h2,h3 {
+    font-family: Georgia, serif;
+}
+
+img {
+    background-color: rgb(255,255,255);
+    padding: 0.5em;
+    border: 3px solid black;
+    box-shadow: rgba(0,0,0,0.5);
+}
+
+.img1 {
+    float: right;
+    margin: 1.5em;
+}
+
+.img2 {
+    float: left;
+    margin: 0em 1.5em;
+}
+
+.second-paragraph {
+    display: inline-block;
+    width:40%;
+    border-right: 2px solid lightgray;
+    padding-right: 2em;
+}
+
+blockquote {
+    display: inline-block;
+    width: 40%;
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+
+.author {
+    text-align: end;
+}

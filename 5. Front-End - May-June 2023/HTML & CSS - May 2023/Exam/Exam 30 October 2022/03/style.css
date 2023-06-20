@@ -1,0 +1,228 @@
+@import "https://use.fontawesome.com/releases/v5.6.3/css/all.css";
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+:root{
+    --heading-color: #d01919;
+    --section2:#ffffff;
+    --section3: #efefef;
+}
+
+html{
+    font-family: PT Sans, PT Serif, sans-serif;
+}
+
+body{
+    width: 100vw;
+}
+
+main{
+    width: 100%;
+}
+
+.content div > *{
+    margin: 10px 0px;
+}
+/********************COMMON ELEMENTS**************************/
+
+hr{
+    background-color: var(--heading-color);
+    height: 6px;
+    border: none;
+    width: 5%;
+}
+
+#introduction, #benefits, #coaches{
+    width: 100%;
+}
+
+.sub-title{
+    width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--heading-color);
+}
+
+.content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px;
+    gap: 30px
+}
+
+.content .benefit-card, .content .coach-card{
+    width: 25%;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.desc{
+    font-style: italic;
+    color: gray;
+}
+/*************************************************************/
+
+
+.main-header{
+    width: 100%;
+    background-color: var(--heading-color);
+    display: flex;
+    color: white;
+    font-size: 16px;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px 10px;
+}
+
+header ul{
+    display: flex;
+    gap: 5px;
+}
+
+header ul li a{
+    color: white;
+}
+
+#introduction{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#introduction img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+}
+
+#introduction nav{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 20px 40px;
+}
+
+#introduction nav ul{
+    display: flex;
+    gap: 60px;
+}
+
+#introduction nav ul li a{
+    color: white;
+}
+
+#introduction article{
+    width: 100%;
+    height: 100%;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+#introduction article span{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+#introduction article span h1{
+    font-size: 52px;
+    letter-spacing: 5px;
+}
+
+#introduction article span p{
+    width: 30%;
+    margin-top: 45px;
+}
+
+#introduction article span a{
+    padding: 10px 25px;
+    background-color: var(--heading-color);
+    border-radius: 8px;
+    color: white;
+    margin-top: 45px;
+}
+
+#benefits{
+    background-color: var(--section2);
+}
+
+#benefits header{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 45px 0px;
+}
+
+#benefits header h3{
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    display: inline;
+    padding-bottom: 8px;
+}
+
+#benefits .content .benefit-card img{
+    width: 30%;
+    object-fit: cover;
+}
+
+#coaches{
+    background-color: var(--section3);
+    padding: 1px 0px;
+}
+
+#coaches header{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 45px 0px;
+}
+
+#coaches header h3{
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    display: inline;
+    padding-bottom: 8px;
+}
+
+#coaches .coach-card h4{
+    width: 100%;
+}
+
+footer{
+    background-color: var(--heading-color);
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 10px 0px;
+
+}

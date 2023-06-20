@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url("https://use.fontawesome.com/releases/v6.4.0/css/all.css");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font: 14px/1.2 "Courgette", cursive;
+    background-color: #F5F5F5;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container header {
+    text-align: center;
+    padding: 20px 0 5px;
+}
+
+header h2 {
+    letter-spacing: 0.1em;
+    font-weight: lighter;
+    padding-bottom: 0.2em;
+}
+
+header p {
+    font-weight: bold;
+    color: #CB2238;
+    letter-spacing: 0.1em;
+}
+
+.card-lists {
+    display: flex;
+    gap: 2em;
+}
+
+.card {
+    flex: 1 0 33%;
+    border-radius: 3em;
+    background: #fff;
+}
+
+.card img {
+    display: block;
+    width: 100%;
+    border-radius: 1.3em;
+}
+
+.card .content {
+    padding: 1.3em;
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 1.5em;
+}
+
+.card .content p {
+    font-style: italic;
+    padding-bottom: 1.5em;
+    line-height: 1.4;
+}
+
+.btn {
+    padding-top: 2em;
+}
+
+.btn1 {
+    padding-top: 3em;
+}
+
+i {
+    
+}

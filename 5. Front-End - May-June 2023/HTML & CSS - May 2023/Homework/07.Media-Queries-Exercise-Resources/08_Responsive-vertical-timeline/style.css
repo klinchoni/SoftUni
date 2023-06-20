@@ -1,0 +1,9 @@
+.timeline {
+    border: 0.3rem;
+    border-color: rgb(153,153,153);
+    border-style: solid;
+}
+
+h3 {
+    font-style: italic;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://use.fontawesome.com/releases/v6.4.0/css/all.css");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+html {
+    font-family: 'PT Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header-first-page {
+    background: url('image/computer-main.jpg');
+    background-size:cover;
+}

@@ -1,0 +1,232 @@
+@import "https://use.fontawesome.com/releases/v5.6.3/css/all.css";
+
+*,
+*::after,
+*::before{
+    /*Element style reset*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root{
+    /*Colors*/
+    --color-btn-primary: #00d08e;
+    --color-text-primary: white;
+    --color-text-secondary:#00d08e;
+    --color-fade: rgba(0, 0, 0, 0.4);
+    --color-background-primary: #ffffff;
+    --color-background-secondary: #b2f1dd;
+
+    /*Sizes*/
+    --size-primary-title: 52px;
+    --size-secondary-title: 38px;
+    --size-btn-text: 1.5rem;
+    --size-text-general: 1.4rem;
+
+    /*Other*/
+    --text-shadow: 2px 2px 4px var(--color-fade);
+}
+
+html{
+    /*Designated place for fonts*/
+    font-family: 'PT Sans', sans-serif;
+    font-size: var(--size-text-general);
+}
+
+body{
+    width: 100vw;
+}
+
+/*-----COMMON STYLES-----*/
+
+a{
+    color: var(--color-background-primary);
+    font-size: var(--size-btn-text);
+    font-weight: 600;
+}
+
+.btn-secondary{
+    text-shadow: var(--text-shadow);
+}
+
+h1{
+    font-size: var(--size-primary-title);
+}
+
+h2{
+    font-size: var(--size-secondary-title);
+}
+
+.btn-primary{
+    width: fit-content;
+    border-radius: 4px;
+    padding: 8px 16px;
+    background-color: var(--color-btn-primary);
+    transition: all 300ms;
+}
+
+.btn-primary:hover{
+    background-color: transparent;
+    border: 3px solid var(--color-text-primary);
+}
+
+ul{
+    list-style: none;
+    width: 100%;
+}
+
+li{
+    width: 100%;
+}
+/*-----------------------*/
+
+body > *{
+    width: 100%;
+}
+
+#main-section{
+    height: 70vh;
+    position: relative;
+    color: var(--color-text-primary);
+    text-shadow: var(--text-shadow);
+}
+
+#main-section > .bg-img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: -2;
+}
+
+#main-section::before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom, var(--color-fade) 60%, transparent);
+}
+
+#main-section > header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10% 40px 10%;
+}
+
+
+#main-section main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+#main-section main > *{
+    width: 100%;
+    margin-top: 50px;
+}
+
+#main-section .btn-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-wrapper > *{
+    margin-top: 30px;
+}
+
+#benefits-section .card{
+    width: 100%;
+    height: 30vw;
+    display: flex;
+}
+
+#benefits-section .card:nth-child(even){
+    flex-direction: row-reverse;
+}
+
+#benefits-section .img-container,
+#benefits-section .content{
+    width: 50%;
+    height: 100%;
+}
+
+.img-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content{
+    padding: 2% 7%;
+}
+
+.content > p{
+    margin-top: 10px;
+    width: 50%;
+}
+
+#benefits-section i{
+    color: var(--color-text-secondary);
+}
+
+.card:nth-child(1) .content ul li{
+    margin-top: 20px;
+}
+
+.card:nth-child(1) .content ul{
+    margin-top: 50px;
+}
+
+.card:nth-child(2) .content ul li{
+    width: 20%;
+    margin-top: 15px;
+}
+
+.card:nth-child(2){
+    display: flex;
+    justify-content: center;
+}
+
+.card:nth-child(2) .content{
+    text-align: center;
+}
+
+.content ul li img{
+    width: 100%;
+}
+
+.card:nth-child(2) .content ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin-top: 25px;
+    gap: 15%;
+}
+.card:nth-child(2) li span{
+    color: var(--color-text-secondary);
+    font-weight: 600;
+}
+
+footer{
+    background-color: var(--color-background-secondary);
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin: 35px 0px;
+}

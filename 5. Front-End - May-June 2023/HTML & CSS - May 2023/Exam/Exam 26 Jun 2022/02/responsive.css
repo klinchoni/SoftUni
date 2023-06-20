@@ -1,0 +1,47 @@
+@media (width <= 600px) {
+    body{
+        width: 100vw;
+        margin: 0;
+    }
+
+    main{
+        width: 100%;
+    }
+
+    .left-to-right:first-child{
+        padding: 25px;
+    }
+
+    main .left-to-right article{
+        border-radius: 15%;
+        padding: 50px;
+    }
+
+    main article button{
+        display: none;
+    }
+
+    main section:nth-child(2){
+        flex-direction: column;
+    }
+
+    section:nth-child(4){
+        width: 100%;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    section:nth-child(4) article{
+        margin: 0;
+    }
+
+    form{
+        width: 80%;
+    }
+
+    body section:nth-child(4) form *{
+        width: 100%;
+    }
+}

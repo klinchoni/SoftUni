@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    <title>Fitness Calculator</title>
+</head>
+<body>
+    <article class="card">
+        <section class="img-frame">
+            <img src="./image/calculator.png" alt="calculator">
+        </section>
+        <section class="form-wrapper">
+            <header class="card-header">
+                <h1>FITNESS CALCULATOR</h1>
+            </header>
+            <form action="" method="post">
+                <div class="units-field">
+                    <label for="standard">
+                        <input type="radio" name="units" id="standard" checked>
+                        <span class="custom-radio">Standart units (US)</span>
+                    </label>
+                    <label for="metric">
+                        <input type="radio" name="units" id="metric">
+                        <span class="custom-radio">Metric units</span>
+                    </label>
+                </div>
+                <h3>Gender</h3>
+                <div class="identification-field">
+                    <select name="gender-selection" id="gender">
+                        <option value="female">Female</option>
+                        <option value="male">Male</option>
+                        <option value="other">Other</option>
+                    </select>
+                    <input type="text" name="age" placeholder="Years..." id="Age">
+                </div>
+                <h3>Weight</h3>
+                <div class="weight-field">
+                    <input type="text" name="weight" placeholder="Pounds..." id="weight">
+                </div>
+                <h3>Height</h3>
+                <div class="height-field">
+                    <input type="text" placeholder="Feet..." name="feet">
+                    <input type="text" placeholder="Inches..." name="inches">
+                </div>
+                <button type="submit">Calculate</button>
+            </form>
+        </section>
+
+    </article>
+</body>
+</html>
