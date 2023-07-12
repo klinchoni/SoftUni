@@ -35,6 +35,30 @@ function solve(input) {
 
     console.log(parking);
   }
+
+  // JUDGE 100/100
+  function solve(input) {
+    let parking = [];
+    input.forEach((element) => {
+      let [direction, carNumber] = element.split(", ");
+      if (direction === "IN") {
+        if (!parking.includes(carNumber)) {
+          parking.push(carNumber);
+        }
+      } else if (direction === "OUT") {
+        if (parking.includes(carNumber)) {
+          let car = parking.indexOf(carNumber);
+          parking.splice(car, 1);
+        }
+      }
+    });
+    
+    if (parking.length === 0) {
+      console.log("Parking Lot is Empty");
+    } else {
+      console.log(parking.sort().join("\n"));
+    }
+  }
   
   solve([
     "IN, CA2844AA",
