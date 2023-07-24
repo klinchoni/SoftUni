@@ -1,16 +1,33 @@
 function solve() {
+    const BASE_URL = "http://localhost:3030/jsonstore/bus/schedule/";
+    const arriveButton = document.querySelector("#arrive");
+    const departButton = document.querySelector("#depart");
+    const outputInfo = document.querySelector(".info");
+    let busId = "depot";
+    let currentStop = null;
+  
     function depart() {
-        // TODO: 
+      departButton.disabled = true;
+      arriveButton.disabled = false;
+      fetch(`${BASE_URL}${busId}`)
+        .then((response) => response.json())
+        .then((data) => {
+          currentStop = data.name;
+          outputInfo.textContent = `Next stop ${currentStop}`;
+          busId = data.next;
+        });
     }
-
+  
     async function arrive() {
-        // TODO:
+      departButton.disabled = false;
+      arriveButton.disabled = true;
+      outputInfo.textContent = `Arriving at ${currentStop}`;
     }
-
+  
     return {
-        depart,
-        arrive
+      depart,
+      arrive,
     };
-}
-
-let result = solve();
+  }
+  
+  let result = solve();
